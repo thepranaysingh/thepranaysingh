@@ -59,6 +59,15 @@ Artificial Intelligence • Machine Learning • Deep Learning • NLP • Gener
 * NLP
 * Deep Learning
 
+📊 Data & Analytics
+
+<p>
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="45"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="45"/>
+</p>
+
+Microsoft Excel • SQL • MySQL
+
 ⸻
 
 🚀 What I Build

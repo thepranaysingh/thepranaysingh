@@ -2,6 +2,8 @@ Hi, I’m Pranay Singh 👋
 
 Full Stack Developer | AI/ML Engineer | Generative AI Enthusiast
 
+🎓 B.Tech in Computer Science & Engineering — IET Lucknow | 2026
+
 I build full-stack applications, AI-powered solutions, and scalable cloud-native systems. My interests span MERN development, Artificial Intelligence, Machine Learning, Deep Learning, NLP, Generative AI, and AI engineering.
 
 ⸻

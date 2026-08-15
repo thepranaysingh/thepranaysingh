@@ -123,6 +123,15 @@ Scalable AI Applications
 
 🤝 Let’s Connect
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/thepranaysingh?utm_source=share_via&utm_content=profile&utm_medium=member_ios">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/thepranaysingh?igsh=MXQwdHE2a3p1eW94cg%3D%3D&utm_source=qr">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
+
 I’m interested in building scalable software, AI-powered products, and intelligent systems.
 
 ⭐ Feel free to explore my repositories and connect with me!

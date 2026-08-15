@@ -98,6 +98,10 @@ Scalable AI Applications
 
 ⸻
 
+## 📊 GitHub Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thepranaysingh&theme=dark)](https://github.com/Akinaru/github-readme-streak-stats)
+
 🤝 Let’s Connect
 
 I’m interested in building scalable software, AI-powered products, and intelligent systems.

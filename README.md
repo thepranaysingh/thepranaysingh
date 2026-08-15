@@ -1,3 +1,5 @@
+![Profile views](https://komarev.com/ghpvc/?username=thepranaysingh)
+
 Hi, I’m Pranay Singh 👋
 
 Full Stack Developer | AI/ML Engineer | Generative AI Enthusiast

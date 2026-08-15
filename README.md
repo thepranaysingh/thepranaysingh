@@ -104,6 +104,23 @@ Scalable AI Applications
 
 [![Pranay's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thepranaysingh&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+## 🐍 Contribution Snake
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/thepranaysingh/thepranaysingh/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/thepranaysingh/thepranaysingh/output/github-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/thepranaysingh/thepranaysingh/output/github-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
+</picture>
+
 🤝 Let’s Connect
 
 I’m interested in building scalable software, AI-powered products, and intelligent systems.

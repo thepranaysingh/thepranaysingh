@@ -2,7 +2,7 @@
 
 Hi, I’m Pranay Singh 👋
 
-Full Stack Developer | AI/ML Engineer | Generative AI Enthusiast
+Full Stack Developer | AI/ML Engineer | Generative AI & Data Science Enthusiast
 
 🎓 B.Tech in Computer Science & Engineering — IET Lucknow | 2026
 

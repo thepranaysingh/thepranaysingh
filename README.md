@@ -102,6 +102,8 @@ Scalable AI Applications
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thepranaysingh&theme=dark)](https://github.com/Akinaru/github-readme-streak-stats)
 
+[![Pranay's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thepranaysingh&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 🤝 Let’s Connect
 
 I’m interested in building scalable software, AI-powered products, and intelligent systems.

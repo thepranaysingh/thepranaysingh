@@ -128,6 +128,9 @@ Scalable AI Applications
   <a href="https://www.instagram.com/thepranaysingh?igsh=MXQwdHE2a3p1eW94cg%3D%3D&utm_source=qr">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
+    <a href="mailto:pranaysingh2712@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </p>
 
 I’m interested in building scalable software, AI-powered products, and intelligent systems.

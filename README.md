@@ -87,7 +87,7 @@ Microsoft Excel • SQL • MySQL
 ### 📌 Current Focus
 
 <marquee behavior="scroll" direction="left" scrollamount="6">
-🚀 Full Stack Development ↓ 🤖 AI / Machine Learning ↓ ✨ Generative AI ↓ 🔗 AI Agents + MCP ↓ ☁️ Scalable AI Applications
+  🚀 Full Stack Development ↓ 🤖 AI / Machine Learning ↓ ✨ Generative AI ↓ 🔗 AI Agents + MCP ↓ ☁️ Scalable AI Applications
 </marquee>
 
 ⸻

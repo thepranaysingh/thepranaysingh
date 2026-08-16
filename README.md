@@ -10,9 +10,9 @@ I build full-stack applications, AI-powered solutions, and scalable cloud-native
 
 ⸻
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-## 💻 Languages
+### 💻 Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=java" height="45"/>
@@ -21,7 +21,7 @@ I build full-stack applications, AI-powered solutions, and scalable cloud-native
   <img src="https://skillicons.dev/icons?i=python" height="45"/>
 </p>
 
-## 🌐 Full Stack Development
+### 🌐 Full Stack Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=html" height="45"/>
@@ -33,7 +33,7 @@ I build full-stack applications, AI-powered solutions, and scalable cloud-native
   <img src="https://skillicons.dev/icons?i=mongodb" height="45"/>
 </p>
 
-## 🤖 AI / Machine Learning
+### 🤖 AI / Machine Learning
 
 <p>
   <img src="https://skillicons.dev/icons?i=python" height="45"/>
@@ -43,7 +43,7 @@ I build full-stack applications, AI-powered solutions, and scalable cloud-native
 
 Artificial Intelligence • Machine Learning • Deep Learning • NLP • Generative AI
 
-## 🐳 DevOps & Cloud-Native
+### 🐳 DevOps & Cloud-Native
 
 <p>
   <img src="https://skillicons.dev/icons?i=docker" height="45"/>
@@ -52,7 +52,7 @@ Artificial Intelligence • Machine Learning • Deep Learning • NLP • Gener
   <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </p>
 
-## 🧠 AI Engineering
+### 🧠 AI Engineering
 
 * Generative AI
 * AI Agents
@@ -61,7 +61,7 @@ Artificial Intelligence • Machine Learning • Deep Learning • NLP • Gener
 * NLP
 * Deep Learning
 
-## 📊 Data & Analytics
+### 📊 Data & Analytics
 
 <p>
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="45"/>
@@ -84,13 +84,13 @@ Microsoft Excel • SQL • MySQL
 
 ⸻
 
-### 📌 Current Focus
+## 📌 Current Focus
 
 ![Current Focus](./current-focus-neon-ticker.gif)
 
 ⸻
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <a href="https://github.com/Akinaru/github-readme-streak-stats">
@@ -125,7 +125,7 @@ Microsoft Excel • SQL • MySQL
 
 ⸻
 
-### 🤝 Let’s Connect
+## 🤝 Let’s Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/thepranaysingh?utm_source=share_via&utm_content=profile&utm_medium=member_ios">

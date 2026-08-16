@@ -72,7 +72,7 @@ Microsoft Excel • SQL • MySQL
 
 ⸻
 
-##🚀 What I Build
+###🚀 What I Build
 
 * 🌐 Full-stack web applications
 * 🤖 AI/ML-powered applications

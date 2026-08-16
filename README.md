@@ -131,6 +131,8 @@ Scalable AI Applications
 
 </div>
 
+⸻
+
 🤝 Let’s Connect
 
 <p align="left">

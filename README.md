@@ -18,6 +18,7 @@ I build full-stack applications, AI-powered solutions, and scalable cloud-native
   <img src="https://skillicons.dev/icons?i=java" height="45"/>
   <img src="https://skillicons.dev/icons?i=javascript" height="45"/>
   <img src="https://skillicons.dev/icons?i=cpp" height="45"/>
+  <img src="https://skillicons.dev/icons?i=c" height="45"/>
   <img src="https://skillicons.dev/icons?i=python" height="45"/>
 </p>
 

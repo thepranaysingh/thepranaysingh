@@ -95,10 +95,10 @@ Microsoft Excel • SQL • MySQL
 
 <p align="center">
   <a href="https://github.com/Akinaru/github-readme-streak-stats">
-    <img
-      src="https://github-readme-streak-stats.herokuapp.com/?user=thepranaysingh&theme=dark"
-      alt="GitHub Streak"
-    />
+  <img
+  src="https://streak-stats.demolab.com/?user=thepranaysingh&theme=dark"
+  alt="GitHub Streak"
+/>
   </a>
 </p>
 
